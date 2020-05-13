@@ -7,8 +7,7 @@ import { Component } from '@angular/core';
 })
 
 export class HelloIonicPage {
-  applicantId: string = '63fbbb62-f225-4ec2-b6ec-7209589c43f9'
-  token: string = 'sdk_sandbox.UFEcqDXJSAw.NKCR1u-4UUTzlkevWsECJXAlLU-vaVvz'
+
 
 
   options: any;
